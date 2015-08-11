@@ -1,0 +1,1 @@
+// Index file's JavaScript code
