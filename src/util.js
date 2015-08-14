@@ -1,7 +1,7 @@
 module.exports = {
-    log: function (data) {
-	// @if !TEST
-	console.log(data);
-	// @endif
-    }
+	log: function (data) {
+		// @if !TEST
+		console.log(data);
+		// @endif
+	}
 };
